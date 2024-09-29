@@ -34,25 +34,25 @@ Fonts are separated by a & */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #2194DB   ;
-  --secondary-color: #21DBA9 ;
-  --accent1-color: #20D0DC;
-  --accent2-color: #72D4DB;
+  --primary-color: #1768AC   ;
+  --secondary-color: #06BEE1 ;
+  --accent1-color: #E69597;
+  --accent2-color: #1CFEBA;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Raleway", sans-serif;
   --paragraph-font: "Abel", Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #2194DB;  /* headlines on a white background */ 
-  --headline-color-on-color: #21DBA9; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #72D4DB; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: #20D0DC; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #2194DB  ;
-  --nav-link-color: #2194DB;
-  --nav-background-color: #21DBA9;
-  --nav-hover-link-color: #72D4DB;
-  --nav-hover-background-color: #72c9ff;
+  --headline-color-on-white: #1768AC;  /* headlines on a white background */ 
+  --headline-color-on-color: #1768AC; /* headlines on a colored background */ 
+  --paragraph-color-on-white: #1CFEBA; /* paragraph text on a white background */ 
+  --paragraph-color-on-color: #E69597; /* paragraph text on a colored background */ 
+  --paragraph-background-color: #4ee1ff;
+  --nav-link-color: #1768AC;
+  --nav-background-color: #1CFEBA;
+  --nav-hover-link-color: #E69597;
+  --nav-hover-background-color: #06BEE1;
 }
 
 
