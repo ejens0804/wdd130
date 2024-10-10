@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: lightskyblue;
+}
+
+.topquote {
+    color: white;
+}
+
+.middlequote {
+    color: white;
+    font-size: 40;
+}
+
+img {
+    width: 60%;
+    display: block;
+    margin: 0 auto;
+}
+
+ol {
+text-align: left;
+}
+
+.bottomtext {
+    text-align: center;
+}
