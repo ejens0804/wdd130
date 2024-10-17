@@ -12,6 +12,12 @@ body {
 }
 
 #circle_images img {
-    width: 20%;
-    /* border: 3px, grey; */
+    width: 10%;
+    border: 6px, solid, black;
+    margin: 50px 2%;
+}
+
+#circle_images {
+    display: flex;
+    justify-content: center;
 }
