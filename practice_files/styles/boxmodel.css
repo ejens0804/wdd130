@@ -21,6 +21,10 @@ a {
     padding: 25px;
 }
 
+a:hover {
+    border: solid white, 3px;
+}
+
 body {
     margin: 0;
 }

@@ -1,0 +1,17 @@
+.hero-img {
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    background-color: grey;
+}
+
+.circles {
+    border-radius: 50%;
+}
+
+#circle_images img {
+    width: 20%;
+    /* border: 3px, grey; */
+}
