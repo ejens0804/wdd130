@@ -1,0 +1,59 @@
+/* Block 1 should be left-aligned
+Block 2 should be center-aligned
+Block 3 should be right-aligned
+Block 4 should be center-aligned
+
+ The first paragraph in blocks 1,2,3 should be left-aligned.
+ The second paragraph in blocks 1,2,3 should be center-aligned.
+ The third paragraph in blocks 1,2,3 should be right-aligned.
+
+The first paragraph in block 4 should be right-aligned.
+The second paragraph in block 4 should be center-aligned.
+ The third and fourth paragraphs in block 4 should be left -aligned. */
+
+section {
+    width: 50%;
+}
+
+.block1 {
+    border: 2px solid black;
+}
+
+.block2 {
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.block3 {
+    margin-left: auto;
+    border: 2px solid black;
+}
+
+.block4 {
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.first-paragraph {
+text-align: left;
+}
+
+.second-paragraph {
+text-align: center;
+}
+
+.third-paragraph {
+text-align: right;
+}
+
+.block4-first-paragraph {
+text-align: right;
+}
+
+.block4-second-paragraph {
+text-align: center;
+}
+
+.block4-third-paragraph , .block4-fourth-paragraph {
+text-align: left;
+}
